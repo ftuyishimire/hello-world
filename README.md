@@ -5,4 +5,4 @@ introduction
  staging environment
  git help
  branch
- branch message
+ branch messages
